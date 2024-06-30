@@ -22,4 +22,5 @@ Cusinext is a web application that leverages deep learning technologies to perfo
 
 ## Architecture
 
-<img width="886" alt="image" src="https://github.com/mf0212/Cusinext/assets/117279633/b194f2ea-3a39-4d90-825d-b790d575f648">
+<img width="844" alt="image" src="https://github.com/mf0212/Cusinext/assets/117279633/a7395cfe-c453-4b84-9c7d-c0bb6a592353">
+
